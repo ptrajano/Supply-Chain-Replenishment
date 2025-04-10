@@ -41,8 +41,8 @@ For complete implementation details and analysis, please refer to [README.pdf](R
 - Real-world validation studies
 
 > **Note**: The full technical documentation including mathematical formulations and case studies is available in [README.pdf](README.pdf).
->
-> ## Author
+
+## Author
 Pedro Trajano Ferreira  
 pedro.trajano.ferreira@gmail.com  
-09/04/25
+09/04/2025
